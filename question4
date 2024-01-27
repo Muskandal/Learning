@@ -1,0 +1,8 @@
+question 4:-
+what is the lifecycle of the git?
+answer:-
+whenever we made file in the working directory its in the local directory not on remote git repo.
+when we run command(git add) then it enters in the staging stage or the index stage. where git can track the file. but still file is visible in the local repo. with the lable track.
+when we run command (git commit) the file will be in stage to move in remote repo.
+ we need to set link between branch and origin.
+
